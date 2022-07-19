@@ -4,7 +4,7 @@
 ### Kelas:TI.20.D1
 ### NIM : 312010083
 
-### LINK VIDEO DEMO WEB : https://youtu.be/7rJMAwOA0fQ
+### LINK VIDEO DEMO WEB :
 ### LINK DEMO WEB HOSTING : https://monicafbl23.xyz/
 
 ### Noted; link hosting berlaku satu bulan untuk masa akses
